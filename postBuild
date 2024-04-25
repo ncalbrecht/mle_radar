@@ -1,2 +1,3 @@
+mkdir gestures_preprocessed/
 wget -q -O ./gestures_preprocessed/samples.npy "https://collaborating.tuhh.de/e-3/teaching/radar_mle/-/raw/main/gestures_preprocessed/samples.npy?ref_type=heads"
 wget -q -O ./gestures_preprocessed/labels.npy "https://collaborating.tuhh.de/e-3/teaching/radar_mle/-/raw/main/gestures_preprocessed/labels.npy?ref_type=heads"
